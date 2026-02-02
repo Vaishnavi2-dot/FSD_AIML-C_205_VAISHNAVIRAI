@@ -1,0 +1,3 @@
+Hello from nodejs fs core module.
+This is appended text.
+This is appended text.
