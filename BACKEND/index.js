@@ -1,3 +1,8 @@
+// Folder ke andar enter karne ke liye cd foldername dalo
+//fir use start karne ke liye npm start karo
+//fir usse exit karne ke liye ctrl+c dabao
+
+
 console.log("Our first JS program is running!");
 //to print use this command: node filename.js
 const http = require("http");
